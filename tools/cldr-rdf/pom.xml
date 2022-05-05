@@ -13,7 +13,7 @@
 
     <properties>
         <mainClass>org.unicode.cldr.rdf.tool.FetchAbstracts</mainClass>
-        <jenaVersion>3.16.0</jenaVersion>
+        <jenaVersion>4.5.0</jenaVersion>
     </properties>
 
     <scm>
