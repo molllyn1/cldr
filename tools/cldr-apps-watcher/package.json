@@ -22,7 +22,7 @@
     "request": "^2.34.0",
     "serve-favicon": "^2.2.0",
     "serve-static": "^1.9.2",
-    "twilio": "^3.41.0",
+    "twilio": "^4.0.0",
     "@snyk/protect": "latest"
   },
   "snyk": true
