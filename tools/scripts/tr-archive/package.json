@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "highlight.js": "^10.7.2",
+    "highlight.js": "^11.6.0",
     "jsdom": "^16.5.2",
     "marked": "^2.0.1"
   },
