@@ -34,7 +34,7 @@
   },
   "private": true,
   "dependencies": {
-    "ant-design-vue": "^2.0.1",
+    "ant-design-vue": "^2.2.0",
     "vue": "^3.0.7"
   }
 }
